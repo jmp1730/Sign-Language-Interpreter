@@ -38,7 +38,8 @@ This approach will convert video of daily frequently used full sentences gesture
 
 ### Installing Prerequisites
 - 1.1 - Download and Install Python IDLE.<br>
-- 1.2 - Download and install anaconda3 from given link <br>: `https://www.filehorse.com/download-anaconda-64/download/` 
+- 1.2 - Download and install anaconda3 from given link : 
+https://www.filehorse.com/download-anaconda-64/download/ <br>
 - 1.3 - Setting Virtual Environment 
 Extract virtual.zip file in the `c/users/user/anaconda3/envs folder`.<br>
 
@@ -53,6 +54,7 @@ Extract virtual.zip file in the `c/users/user/anaconda3/envs folder`.<br>
 
 NOTE:
 Please run the project in plan environment. Here I’m attaching a portion. Set the trackbars as mentioned in the screenshot. `_` symbol can be used for speaking.<br>
+
 ![TrackBar](/images/tb.png)
 
 ### Brief of given files
