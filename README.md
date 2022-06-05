@@ -41,10 +41,10 @@ This approach will convert video of daily frequently used full sentences gesture
 - 1.2 - Download and install anaconda3 from given link : 
 https://www.filehorse.com/download-anaconda-64/download/ <br>
 - 1.3 - Adding data set 
-https://drive.google.com/file/d/1Z1zn4hO9sX9XunFTsr841-bxHBnPOsO6/view?usp=sharing
+https://drive.google.com/file/d/190de2TiXndAyfSfNOZhmFWjuojrIanEC/view?usp=sharing
 Extract mydata.zip file to `Sign-Language-Interpreter folder`.<br>
 - 1.4 - Setting Virtual Environment 
-https://drive.google.com/file/d/13LULLEu_t6gqkrMUP-MqbNmtOyelgPDh/view?usp=sharing
+https://drive.google.com/file/d/1MXNbgoSwyFXuxJF4-rPzH0TAG2braJ7Q/view?usp=sharing
 Extract virtual.zip file in the `c/users/user/anaconda3/envs folder`.<br>
 
 ### Running the Program
